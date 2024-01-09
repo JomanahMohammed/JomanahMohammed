@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jumanah Mohammed</h1>
 <h3 align="center">I am interested in Front-End development and User Interface design.</h3>
 
-- 👩🏻‍💻 My Projects Is On [https://github.com/JomanahMohammed](https://github.com/JomanahMohammed)
+- 👩🏻‍💻  Projects : [https://github.com/JomanahMohammed](https://github.com/JomanahMohammed)
 
-- 🔹 My LinkidIn Profile [http://linkedin.com/in/jumanahfarshuti](http://linkedin.com/in/jumanahfarshuti)
+- 🔹  LinkidIn : [http://linkedin.com/in/jumanahfarshuti](http://linkedin.com/in/jumanahfarshuti)
 
-- 💌 Contact Me **JumanahFarshuti@gmail.com**
+- 💌 Email : **JumanahFarshuti@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
