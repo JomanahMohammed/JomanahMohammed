@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻  Projects : [https://github.com/JomanahMohammed](https://github.com/JomanahMohammed)
 
-- 🔹  LinkidIn : [http://linkedin.com/in/jumanahfarshuti](http://linkedin.com/in/jumanahfarshuti)
+- 🔹  LinkedIn : [http://linkedin.com/in/jumanahfarshuti](http://linkedin.com/in/jumanahfarshuti)
 
 - 💌 Email : **JumanahFarshuti@gmail.com**
 
