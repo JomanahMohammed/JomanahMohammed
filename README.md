@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✨ I'm Jumanah Mohammed ✨</h1>
-<h3 align="center">I am interested in Front-End development and User Interface design.</h3>
+<h3 align="center">I am interested in  - Front-End - development  </h3>
 
 🔸  Projects : [https://github.com/JomanahMohammed](https://github.com/JomanahMohammed)
 
