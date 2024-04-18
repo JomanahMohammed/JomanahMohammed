@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✨ I'm Jumanah Mohammed ✨</h1>
 <h3 align="center">I am interested in FrontEnd development  </h3>
 
-🔸  Projects : [https://github.com/JomanahMohammed](https://github.com/JomanahMohammed)
+🔸  Projects : https://jomanahmohammed.github.io/MyWebSite/
 
 🔹  LinkedIn : [http://linkedin.com/in/jumanahfarshuti](http://linkedin.com/in/jumanahfarshuti)
 
